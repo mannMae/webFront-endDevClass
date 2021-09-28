@@ -1,0 +1,59 @@
+<html>
+퍼플리셔 : https://hyeonseok.com/soojung/webpublisher/2006/11/26/306.html
+프론트엔드 개발자
+HTML + CSS + Js
+  성능측정, 웹 렌더링, 웹 접근성, 웹표준, 검색엔진 최적화, 레거시브라우저 대응, R&D, 디자이너와 기획자와의 소통
+
+해상도
+크로스브라우징
+
+html(Hyper Text Markup Language)
+http(Hyper Text Transfer Protocol)
+url
+(at. W3C)
+
+html로 작성한 문서를 url에 저장한 후 http 방식으로 공유하는 방식
+// **접근성
+
+
+1차, 2차, 3차 브라우저 전쟁
+
+AOL, IE, Netscape
+
+Mozilla IE  Firefox Safari Opera
+
+Chorme IE  Firefox Safari Opera
+
+
+
+웹의 미래
+
+제프 베조스 "인터넷 산업 == 전기산업"
+
+HTML : text to text를 Hyperlink로 연결
+
+HTML의 기본 규칙
+
+태그 사용법
+태그 == 마크업
+열린 태그는 닫힌 태그로 완결
+Attribute (속성) : 태그에 붙히는 속성
+부모, 자식, 형제 관계
+
+HTML의 요소
+<head> 페이지의 전반적 정보를 담는 태그, 출력X
+<body> 화면에 출력될 모든 것을 포함하는 태그
+Sectioning 요소
+- article 
+- section 
+- nav 탐색 정보를 담는 태그
+- aside 본문과 관계없는 컨텐츠를 담는 태그
+- header
+- footer 페이지 제작자, 저작권 정보, 연관된 페이지 링크 등
+- h1 ... h6 ~ : 문단의 제목 표기
+- address 페이지를 운영하는 주체의 실제 주소나 연락처
+큰 태그들을 제목을 갖고 있어야 한다.
+h1은 페이지에 하나만
+레거시 브라우저에서는 최신 태그 (ex) header, footer 등등))을 인식하지 못해서 div로 작성하는 경우가 많음.(네이버, 다음, ...)
+
+</html>
