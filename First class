@@ -56,4 +56,39 @@ Sectioning 요소
 h1은 페이지에 하나만
 레거시 브라우저에서는 최신 태그 (ex) header, footer 등등))을 인식하지 못해서 div로 작성하는 경우가 많음.(네이버, 다음, ...)
 
+block 레벨 요소
+<P>
+<hr> 헤드라인
+<div>
+
+<ol> Ordered List
+<ul> Unordered List
+<li> List Item
+
+<dl> Definition List 정의형 목록
+<dt> Definition Title
+<dd> Definition Data
+
+
+TEXT 레벨 요소
+<a> Anchor
+
+<em> 약한 강조
+<strong> 강한 강조
+
+<abbr> 약어를 나타냄
+
+<q> 한줄 인용구
+
+<cite> 창작물에 대한 출처를 나타냄
+
+<time> 시간표시
+
+<code> 문서상에 코드를 출력하기 위한 코드를
+
+<span> 자체 의미는 없으며 다양한 속성 부여하여 사용
+
+<img src="" alt=""> 접근성 측면에서 이미지에 대한 설명을 기재하길 권장
+
+
 </html>
